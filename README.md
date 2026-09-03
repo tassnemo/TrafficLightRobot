@@ -48,3 +48,8 @@ app.exe
 | `0` | Exit |
 
 The simulation starts at red with an empty queue and an empty history.
+
+# screenshot:
+
+![Screenshot](screenshots/report.png)
+
